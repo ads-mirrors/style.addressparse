@@ -1,0 +1,15 @@
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/bin/Debug/net7.0/AddressParse
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/bin/Debug/net7.0/AddressParse.deps.json
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/bin/Debug/net7.0/AddressParse.runtimeconfig.json
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/bin/Debug/net7.0/AddressParse.dll
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/bin/Debug/net7.0/AddressParse.pdb
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.csproj.AssemblyReference.cache
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.AssemblyInfoInputs.cache
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.AssemblyInfo.cs
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.csproj.CoreCompileInputs.cache
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.dll
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/refint/AddressParse.dll
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.pdb
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/AddressParse.genruntimeconfig.cache
+/Users/danhorning/projects/ADS/AddressParse/src/AddressParse/obj/Debug/net7.0/ref/AddressParse.dll
